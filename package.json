@@ -1,9 +1,9 @@
 {
-  "name": "semantic-demo",                                         # Name of your application
-  "version": "0.0.0",                                               # Version should be 0.0.0 intially
+  "name": "semantic-demo",
+  "version": "0.0.0",
   "repository": {
-    "type": "git",                                                  # Repository type
-    "url": "git+https://github.com/simonmisencik/semantic-demo.git"   # URL of Git Repository
-  }, 
-  "homepage": "https://github.com/simonmisencik/semantic-demo#readme" # Points to the readme of the GitHub repository
+    "type": "git",
+    "url": "git+https://github.com/simonmisencik/semantic-demo.git"
+  },
+  "homepage": "https://github.com/simonmisencik/semantic-demo#readme"
 }
